@@ -1,2 +1,0 @@
-# HowarTestRepository
-Test Repository
